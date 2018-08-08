@@ -16,6 +16,7 @@ olympics_hash.each do |place, year|
   puts "The #{place} summer olympics took place in #{year}."
 end
 
+puts olympics_hash.values
 
 
 
